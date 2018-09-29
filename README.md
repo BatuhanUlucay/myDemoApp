@@ -6,6 +6,8 @@ This app requires 2 list of integers, a list of string and a special char.
 Author: Batuhan Ulucay
 contact: hulucay@etu.edu.tr
 
+Demo Site : https://frozen-scrubland-82323.herokuapp.com/compute
+
 travis image:
 
 [![Build Status](https://travis-ci.org/BatuhanUlucay/myDemoApp.svg?branch=master)](https://travis-ci.org/BatuhanUlucay/myDemoApp)
